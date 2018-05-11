@@ -1,6 +1,6 @@
 package arrays;
 
-public class LeetCodeSolution1 {
+public class Solution_1 {
 
     static int[] twoSum(int[] nums, int target) {
 
